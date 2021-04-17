@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tich-tack/static/css/main.4ad7fb41.chunk.css",
+    "main.js": "/tich-tack/static/js/main.6c7c7fed.chunk.js",
+    "main.js.map": "/tich-tack/static/js/main.6c7c7fed.chunk.js.map",
+    "runtime-main.js": "/tich-tack/static/js/runtime-main.b479c8b4.js",
+    "runtime-main.js.map": "/tich-tack/static/js/runtime-main.b479c8b4.js.map",
+    "static/js/2.d6499cce.chunk.js": "/tich-tack/static/js/2.d6499cce.chunk.js",
+    "static/js/2.d6499cce.chunk.js.map": "/tich-tack/static/js/2.d6499cce.chunk.js.map",
+    "static/js/3.3536b44d.chunk.js": "/tich-tack/static/js/3.3536b44d.chunk.js",
+    "static/js/3.3536b44d.chunk.js.map": "/tich-tack/static/js/3.3536b44d.chunk.js.map",
+    "index.html": "/tich-tack/index.html",
+    "static/css/main.4ad7fb41.chunk.css.map": "/tich-tack/static/css/main.4ad7fb41.chunk.css.map",
+    "static/js/2.d6499cce.chunk.js.LICENSE.txt": "/tich-tack/static/js/2.d6499cce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b479c8b4.js",
+    "static/js/2.d6499cce.chunk.js",
+    "static/css/main.4ad7fb41.chunk.css",
+    "static/js/main.6c7c7fed.chunk.js"
+  ]
+}
